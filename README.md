@@ -3,7 +3,7 @@ Completed B.Tech in Computer Science & Engineering with 8.23 CGPA
 
 - 🔭 I’m currently working as software quality assurance
 - 🌱 I’m currently learning python
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on python selenium testing
 - 🤔 I’m looking for help with developement framework
 - 💬 Ask me about testing tools
 
