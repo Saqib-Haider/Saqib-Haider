@@ -10,7 +10,7 @@ Completed B.Tech in Computer Science & Engineering with 8.23 CGPA
 
 
 
-<a href="www.linkedin.com/in/saqib-haider-17qa/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> <a href="https://www.hackerrank.com/saqibhaider567" rel="nofollow"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+<a href="https://www.linkedin.com/in/saqib-haider-17qa/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> <a href="https://www.hackerrank.com/saqibhaider567" rel="nofollow"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
 <!--
 **Saqib-Haider/Saqib-Haider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
